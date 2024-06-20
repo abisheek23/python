@@ -24,6 +24,9 @@
 # print(l1)
 # L.extend ([100,200,300])
 # print(L)
+
+
+
 "deleting method"
 l=[10,20,30,40,60,50]
 l.remove(10)
