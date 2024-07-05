@@ -6,6 +6,9 @@
 # fun()
 # fun1()
 from module1 import*
-add('ab',20)
-add('avg',25)
-add('awe',10)
+# add('ab',20)
+# add('avg',25)
+# add('awe',10)
+data=[]
+while True:
+    print("1.add\n2.display\n3.delet")
