@@ -19,7 +19,7 @@
 try:
     print(10+'35')
 except TypeError:
-    print('its type error')
+    print('its type  error')
 else:
     print("else")
 finally:
