@@ -17,7 +17,7 @@
 # print(sum)
 
 try:
-    print(10+'36')
+    print(10+'37')
 except TypeError:
     print('its type error')
 else:
