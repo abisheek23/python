@@ -84,4 +84,4 @@ class d(b,f):
         print("f1")
 class e(c,d):
     def e1():
-        print("e1")
+        print("e 1")
