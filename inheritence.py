@@ -1,4 +1,4 @@
-'single inheritence'
+# 'single inheritence'
 # class synnefo:
 #     def __init__(s):
 #         print("register")
@@ -50,21 +50,21 @@
 # anu.python()
 
 "multilevel inheritence"
-# class colleg:
-#     def _admition(self):
-#         print("admition")
-#     def course(self):
-#         print("course")
+class colleg:
+    def _admition(self):
+        print("admition")
+    def course(self):
+        print("course")
 
-# class class_room(colleg):
-#     def student(self):
-#         print("student")
-# class std(class_room):
-#     def reg(self):
-#         print("reg")
-# manu=std()
-# manu.reg()
-# manu._admition()
+class class_room(colleg):
+    def student(self):
+        print("student")
+class std(class_room):
+    def reg(self):
+        print("reg")
+manu=std()
+manu.reg()
+manu._admition()
 
 "hybrid inheriten"
 class a():
