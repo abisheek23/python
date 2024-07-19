@@ -11,9 +11,11 @@ import re
 #     print('yes')
 # else:
 #     print('no')
-a='abcd'
+a='ABcd'
 print(re.search('a',a))
 print(re.search('a.',a))
 print(re.search('a.*',a))
 print(re.search('a.+',a))
 print(re.search('c.?',a))
+print(re.search('[a-z]',a))
+print(re.search('[A-C]..',a))
