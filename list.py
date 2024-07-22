@@ -60,7 +60,9 @@
 # l=[10,20,40,30,]
 # print(max(l))
 
-a=[](input("enter the list"))
+a=[]
+b=(input("enter the list"))
+a.append(b)
 print (a)
-print(max(a))
+# print(max(a))
 

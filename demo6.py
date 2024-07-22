@@ -20,7 +20,7 @@
 #     break
 " coutinue "
 for i in range(10):
-    pass
-    # if i==5:
-    #     continue
-    # print(i)
+    # pass
+    if i==5:
+        continue
+    print(i)

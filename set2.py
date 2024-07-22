@@ -30,16 +30,16 @@
 # a={1,2,3,4,5,6,7,8,9,10,11}
 # b={9,10,11,12,13,14,15}
 # print(a.isdisjoint(b))
-c=input("enter the limit:")
-a=set()
-a=input("enter the valus")
+# c=input("enter the limit:")
+# a=set()
+# a=input("enter the valus")
 
-# b={9,10,11,12,13,14,15}
-len(a)==c
-if a!=c:
-    print("limit extended")
-else:
-    print(a)
+# # b={9,10,11,12,13,14,15}
+# len(a)==c
+# if a!=c:
+#     print("limit extended")
+# else:
+#     print(a)
 
    
 
@@ -50,17 +50,17 @@ else:
 # c=a.symmetric_difference({1,2,3,4,8,9,10,11,12})
 # print(c)
 
-# l=[1,2,3,4,1,2,3,4]
-# s=set(l)
-# print(s)
-# l=list(s)
-# print (l)
+l=[1,2,3,4,1,2,3,4]
+s=set(l)
+print(s)
+l=list(s)
+print (l)
 
 
-pyth=set()
-php=set()
-a=input("enter the limit")
-len(pyth)==a
+# pyth=set()
+# php=set()
+# a=input("enter the limit")
+# len(pyth)==a
 
 
 
